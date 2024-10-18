@@ -1,6 +1,6 @@
 # Enophone Music Experiment
 
-This project is designed to conduct experiments using the Enophone headset to record EEG signals while subjects listen to music. The program streams and records EEG data, displays it in real-time, and manages experimental protocols including displaying messages and playing songs.
+This project is designed to conduct experiments using the Enophone headset to record EEG signals while subjects listen to music. The program streams and records EEG data, displays it in real-time, and manages experimental protocols including displaying messages and playing songs. The project was performed by Anestopoulos K. and Patsakos G., under the supervision of Associate Prof. Athanasios Koutras.
 
 ## Table of Contents
 
