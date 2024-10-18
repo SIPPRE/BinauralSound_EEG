@@ -1,0 +1,7 @@
+brainflow
+PyQt5
+pyqtgraph
+pygame
+numpy
+pandas
+mne
